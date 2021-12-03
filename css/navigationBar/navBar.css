@@ -1,0 +1,22 @@
+body{
+  background-color: aquamarine;
+}
+.navBar{
+  background-color: darkgray;
+  height: 50px;
+}
+a{
+  color: white;
+  margin: 20px;
+  position: relative;
+  top: 30%;
+
+}
+
+a:hover{
+  background-color: black;
+  padding-top: 15px;
+  padding-bottom: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

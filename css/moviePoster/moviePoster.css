@@ -1,0 +1,31 @@
+h1{
+  font-style: normal;
+  font-family: cursive;
+  font-size: 50px;
+  align-self: center;
+  color: white;
+  text-align: center;
+}
+
+.pictures{
+  background-color: blue;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+body{
+  background-color: darkblue;
+}
+
+.myInfo{
+  background-color: lightblue;
+  color: white;
+}
