@@ -1,0 +1,3 @@
+function dateTime(){
+  alert(Date());
+}
